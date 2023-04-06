@@ -1,4 +1,5 @@
-## sentiment-analyzer-using-text-classification
+<h2 align="center">sentiment-analyzer-using-text-classification</h2>
+
 
 ### 🗒️ Introduction:
 This project is aimed at performing sentiment analysis on movie reviews. It classifies the reviews into positive and negative sentiments. There are two techniques used here.
