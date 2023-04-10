@@ -5,6 +5,7 @@
 This project is aimed at performing sentiment analysis on movie reviews. It classifies the reviews into positive and negative sentiments. There are two techniques used here.
 - A word2vec model
 - A Long Short Term Memory model
+
 The similarity of words obtained by both models are analyzed and visualized using a plot.
 
 ### 💵 Business value:
